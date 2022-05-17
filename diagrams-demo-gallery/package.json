@@ -35,6 +35,6 @@
 		"@storybook/react": "^6.3.2",
 		"@storybook/storybook-deployer": "^2.8.7",
 		"@storybook/theming": "^6.2.8",
-		"gsap": "^3.7.1"
+		"gsap": "^3.6.0"
 	}
 }
